@@ -1,2 +1,3 @@
 # hello-world
-first GitHub repository for practice
+
+I am lerning GitHub for the first time.  It appears to be very useful although will take a bit of time getting used to...
